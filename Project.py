@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 import os
-
+#ImageProcessing Project
 #Face recognition
 print("Task 1 Face Recognition\n\n")
 def load_images(path, new_width=50, new_height=50): 
